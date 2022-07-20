@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="J7s{9YM+]q?2;^CytUf1" x="-330" y="-860"><statement name="HANDLER"><block type="device_show_leds" id="4j_DLPDQToc6A;+J{uXj"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="K(7s:I(+Ile6K.=]RLtj"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="2!t|uT^/u9t027.Oj3P;"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="u(ruWKIR@YBkLthVH{QZ"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # . # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="N!wNIW^7mI%J4Y0x(Dae"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="`t^u%NOm!h}lNb!yXws~" x="104" y="-521"><statement name="HANDLER"><block type="device_set_digital_pin" id="vbd`*Za#B9dljzytjSz4"><field name="name">DigitalPin.P0</field><value name="value"><shadow type="math_number_minmax" id="[2(sjve+uG0OBQWbQxLi"><mutation min="0" max="1" label="Value" precision="0"></mutation><field name="SLIDER">1</field></shadow></value><next><block type="device_set_digital_pin" id="(Dp%z+eMNTX?-q{7KsJM"><field name="name">DigitalPin.P1</field><value name="value"><shadow type="math_number_minmax" id="edov(rgJdw;+Y]/Gnqgn"><mutation min="0" max="1" label="Value" precision="0"></mutation><field name="SLIDER">0</field></shadow></value><next><block type="device_set_digital_pin" id=".O)3dRp)?Tl=^FlTY7*T"><field name="name">DigitalPin.P2</field><value name="value"><shadow type="math_number_minmax" id="9C^s].uX72#jstL}G_#E"><mutation min="0" max="1" label="Value" precision="0"></mutation><field name="SLIDER">1</field></shadow></value></block></next></block></next></block></statement></block><block type="device_button_event" id="]pGX!~2,(r3l*_+k#h}*" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="qx+AXqZ%f8UiRX8;8=Z."><value name="text"><shadow type="text" id="[1_0GR{A@QV/)cfaN}jM"><field name="TEXT">000000000000000000</field></shadow></value></block></statement></block></xml>
